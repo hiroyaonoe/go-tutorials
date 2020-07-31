@@ -1,3 +1,6 @@
 .devcontainer
 gopl.io
 .vscode
+
+my_gopl/*/*
+!*.go
